@@ -1,0 +1,12 @@
+D:\Visual\Guia_3\Guia_3\obj\Debug\Guia_3.vbproj.AssemblyReference.cache
+D:\Visual\Guia_3\Guia_3\obj\Debug\Guia_3.vbproj.SuggestedBindingRedirects.cache
+D:\Visual\Guia_3\Guia_3\obj\Debug\Guia_3.Resources.resources
+D:\Visual\Guia_3\Guia_3\obj\Debug\Guia_3.vbproj.GenerateResource.cache
+D:\Visual\Guia_3\Guia_3\obj\Debug\Guia_3.vbproj.CoreCompileInputs.cache
+D:\Visual\Guia_3\Guia_3\bin\Debug\Guia_3.exe.config
+D:\Visual\Guia_3\Guia_3\bin\Debug\Guia_3.exe
+D:\Visual\Guia_3\Guia_3\bin\Debug\Guia_3.pdb
+D:\Visual\Guia_3\Guia_3\bin\Debug\Guia_3.xml
+D:\Visual\Guia_3\Guia_3\obj\Debug\Guia_3.exe
+D:\Visual\Guia_3\Guia_3\obj\Debug\Guia_3.xml
+D:\Visual\Guia_3\Guia_3\obj\Debug\Guia_3.pdb
